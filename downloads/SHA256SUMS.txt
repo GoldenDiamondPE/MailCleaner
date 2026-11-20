@@ -1,3 +1,3 @@
-5dca2d84be02132619cda583a5949baa872efa16048aea39a6e55f866228dc84  mailcleaner_local-0.2.0b2-py3-none-any.whl
-825521f08f1ecab0d91a33a5a53b6e43763942e30c3473f06bc96124b27e2470  mailcleaner-0.2.0b2-source.zip
-522b5ca2301cbb8c82c504819550c74f45c9fc63b76d55e2df9ba782a2f3f241  release-manifest.json
+6f7119bca3dcc8b3167f2e4c9576e5b70cb2d2c300582d15498de2e393607159  mailcleaner_local-0.2.0b4-py3-none-any.whl
+57327d84e32cafc1a341b18e9122ad6be7ad0ab04e7f399c7d02e832a466a008  mailcleaner-0.2.0b4-source.zip
+80f7bf053062c0e0b6bc9a44c41a30d65b3fa8dbdcd974e6b6d649cefb2cdac4  release-manifest.json
